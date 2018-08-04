@@ -37,18 +37,18 @@ $postBody = "{
                     ""data"": [
                         {
                             ""from"": {
-                                ""displayableName"": ""string"",
-                                ""emailAddress"": ""string""
+                                ""displayableName"": ""String"",
+                                ""emailAddress"": ""String""
                             },
                             ""to"": [
                                 {
-                                    ""displayableName"": ""string"",
-                                    ""emailAddress"": ""string""
+                                    ""displayableName"": ""String"",
+                                    ""emailAddress"": ""String""
                                 }
                             ],
                             ""subject"": ""Hallo"",
                             ""htmlBody"": {
-                                ""content"": ""Dag Bart""
+                                ""content"": ""Dag Tom""
                             },
                             ""plainBody"": {
                                 ""id"": ""String"",
